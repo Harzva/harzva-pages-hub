@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Agent-Job-Interview",
+    "nameWithOwner": "Harzva/Agent-Job-Interview",
+    "url": "https://github.com/Harzva/Agent-Job-Interview",
+    "description": "Agent job interview roadmap and practice training suite.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-05-14T00:36:37Z",
+    "updatedAt": "2026-05-14T00:36:40Z",
+    "createdAt": "2026-05-12T09:49:47Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/Agent-Job-Interview/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Agent-Job-Interview",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/Agent-Job-Interview/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "CampusAgent-QA",
+    "nameWithOwner": "Harzva/CampusAgent-QA",
+    "url": "https://github.com/Harzva/CampusAgent-QA",
+    "description": "Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Java"
+    },
+    "pushedAt": "2026-05-12T15:19:32Z",
+    "updatedAt": "2026-05-12T16:36:53Z",
+    "createdAt": "2026-05-11T08:22:16Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/CampusAgent-QA/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent",
+      "campus-qa",
+      "rag",
+      "spring-boot",
+      "vue"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/CampusAgent-QA",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/CampusAgent-QA/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "catop-cachehit",
+    "nameWithOwner": "Harzva/catop-cachehit",
+    "url": "https://github.com/Harzva/catop-cachehit",
+    "description": "A top-like terminal monitor for LLM cache hits, cached tokens, and estimated dollars saved.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-05-14T08:29:49Z",
+    "updatedAt": "2026-05-14T08:29:53Z",
+    "createdAt": "2026-05-14T07:11:57Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "ai-agents",
+      "cache-hit",
+      "cachehit",
+      "catop",
+      "litellm",
+      "llm",
+      "monitoring",
+      "prompt-cache",
+      "tui"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/catop-cachehit",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/catop-cachehit/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "ChinaAI-Roadmaps",
+    "nameWithOwner": "Harzva/ChinaAI-Roadmaps",
+    "url": "https://github.com/Harzva/ChinaAI-Roadmaps",
+    "description": "Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-05-12T10:54:22Z",
+    "updatedAt": "2026-05-12T10:54:26Z",
+    "createdAt": "2026-05-11T08:19:22Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/ChinaAI-Roadmaps/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agentic-ai",
+      "ai",
+      "china-ai",
+      "deepseek",
+      "glm",
+      "kimi",
+      "llm",
+      "minimax",
+      "open-llm",
+      "open-weight-models",
+      "papers",
+      "roadmap",
+      "svg"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/ChinaAI-Roadmaps",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/ChinaAI-Roadmaps/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "everything-in-github",
+    "nameWithOwner": "Harzva/everything-in-github",
+    "url": "https://github.com/Harzva/everything-in-github",
+    "description": "综合 GitHub 资源收集仓库 - 成就徽章、个人资料工具、自动化工作流、社区活动、数据可视化",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-05-13T08:16:51Z",
+    "updatedAt": "2026-05-13T08:17:03Z",
+    "createdAt": "2026-05-09T03:45:36Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/everything-in-github",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/everything-in-github",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/everything-in-github/",
+      "status": "built",
+      "source": {
+        "branch": "gh-pages",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "GitReleaseMarket",
+    "nameWithOwner": "Harzva/GitReleaseMarket",
+    "url": "https://github.com/Harzva/GitReleaseMarket",
+    "description": "GitHub/Gitee APK discovery and release download tool",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Rust"
+    },
+    "pushedAt": "2026-05-14T08:48:47Z",
+    "updatedAt": "2026-05-14T08:48:36Z",
+    "createdAt": "2026-05-12T07:58:44Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/GitReleaseMarket/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/GitReleaseMarket",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/GitReleaseMarket/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "v0.1.7",
+      "tagName": "v0.1.7",
+      "url": "https://github.com/Harzva/GitReleaseMarket/releases/tag/v0.1.7",
+      "publishedAt": "2026-05-14T08:54:17Z",
+      "prerelease": false,
+      "draft": false
+    }
+  },
+  {
+    "name": "Harzva--personal",
+    "nameWithOwner": "Harzva/Harzva--personal",
+    "url": "https://github.com/Harzva/Harzva--personal",
+    "description": "harzva's personal Personal Homepage",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "pushedAt": "2021-01-16T09:35:32Z",
+    "updatedAt": "2022-10-29T09:09:51Z",
+    "createdAt": "2021-01-16T04:48:01Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Harzva--personal",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/Harzva--personal/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "Harzva.github.io",
+    "nameWithOwner": "Harzva/Harzva.github.io",
+    "url": "https://github.com/Harzva/Harzva.github.io",
+    "description": "Personal portfolio, papers, Agent projects, and article collections.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-05-11T11:07:01Z",
+    "updatedAt": "2026-05-11T11:07:29Z",
+    "createdAt": "2022-10-29T13:10:46Z",
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "homepageUrl": "https://harzva.github.io/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/Harzva.github.io",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/",
+      "status": "built",
+      "source": {
+        "branch": "master",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "learn-likecc",
+    "nameWithOwner": "Harzva/learn-likecc",
+    "url": "https://github.com/Harzva/learn-likecc",
+    "description": "Claude Code 源码逆向恢复项目 | Source Map 逆向 · 架构分析 · 可运行版本 | 1900+ 文件 · 51万行代码 · 12章节课程",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "TypeScript"
+    },
+    "pushedAt": "2026-05-14T06:54:23Z",
+    "updatedAt": "2026-05-14T06:54:27Z",
+    "createdAt": "2026-04-01T03:55:26Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 180,
+    "forkCount": 38,
+    "repositoryTopics": [
+      "agent-loop",
+      "ai-coding",
+      "anthropic",
+      "bun",
+      "claude-code",
+      "cli-tool",
+      "mcp-protocol",
+      "reverse-engineering",
+      "source-map",
+      "typescript"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/learn-likecc",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/learn-likecc/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "v1.0.2-likecode",
+      "tagName": "v1.0.2-likecode",
+      "url": "https://github.com/Harzva/learn-likecc/releases/tag/v1.0.2-likecode",
+      "publishedAt": "2026-04-07T12:27:48Z",
+      "prerelease": false,
+      "draft": false
+    }
+  },
+  {
+    "name": "mobilecode",
+    "nameWithOwner": "Harzva/mobilecode",
+    "url": "https://github.com/Harzva/mobilecode",
+    "description": "MobileCode - AI coding workspace for mobile devices",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Dart"
+    },
+    "pushedAt": "2026-05-14T09:06:28Z",
+    "updatedAt": "2026-05-14T09:06:32Z",
+    "createdAt": "2026-05-12T08:19:17Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/mobilecode",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/mobilecode/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "MobileCode v0.1.0 Android APK",
+      "tagName": "v0.1.0",
+      "url": "https://github.com/Harzva/mobilecode/releases/tag/v0.1.0",
+      "publishedAt": "2026-05-12T08:19:46Z",
+      "prerelease": false,
+      "draft": false
+    }
+  },
+  {
+    "name": "RepoAtlas",
+    "nameWithOwner": "Harzva/RepoAtlas",
+    "url": "https://github.com/Harzva/RepoAtlas",
+    "description": "RepoAtlas maps multiple GitHub accounts to local Git checkouts, context categories, sync drift, and desktop folder actions.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Rust"
+    },
+    "pushedAt": "2026-05-13T14:54:48Z",
+    "updatedAt": "2026-05-13T15:21:21Z",
+    "createdAt": "2026-05-12T15:53:11Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/RepoAtlas/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/RepoAtlas",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/RepoAtlas/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "v0.5.0",
+      "tagName": "v0.5.0",
+      "url": "https://github.com/Harzva/RepoAtlas/releases/tag/v0.5.0",
+      "publishedAt": "2026-05-13T14:49:50Z",
+      "prerelease": false,
+      "draft": false
+    }
+  },
+  {
+    "name": "WellAgentPets",
+    "nameWithOwner": "Harzva/WellAgentPets",
+    "url": "https://github.com/Harzva/WellAgentPets",
+    "description": "Unofficial Claude and Agent pet SVG gallery with GitHub Pages wall",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "CSS"
+    },
+    "pushedAt": "2026-05-14T00:53:44Z",
+    "updatedAt": "2026-05-14T00:53:49Z",
+    "createdAt": "2026-05-13T09:05:00Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/meta/Harzva/WellAgentPets",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/WellAgentPets/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "owner": "Harzva",
+  "mode": "pages",
+  "title": "harzva-pages-hub",
+  "description": "Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces.",
+  "includePrivate": false,
+  "privateOmitted": 13,
+  "hubLinks": {
+    "atlas": "https://github.com/Harzva/harzva-project-atlas",
+    "release": "https://github.com/Harzva/harzva-release-hub",
+    "pages": "https://github.com/Harzva/harzva-pages-hub",
+    "skills": "https://github.com/Harzva/harzva-skills-hub"
+  }
+}
