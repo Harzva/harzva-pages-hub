@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generatedAt": "2026-06-05T07:18:58.850467+00:00",
+    "generatedAt": "2026-06-06T06:38:52.601996+00:00",
     "owner": "Harzva",
     "mode": "pages",
     "publicRepositories": 99,
@@ -387,40 +387,6 @@
     ],
     "Pages and Live Demos": [
       {
-        "name": "harzva-project-atlas",
-        "nameWithOwner": "Harzva/harzva-project-atlas",
-        "url": "https://github.com/Harzva/harzva-project-atlas",
-        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "Python"
-        },
-        "pushedAt": "2026-06-05T07:18:21Z",
-        "updatedAt": "2026-06-04T08:01:00Z",
-        "createdAt": "2026-05-14T09:27:13Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/harzva-project-atlas/",
-          "status": null,
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "Agent-Job-Interview",
         "nameWithOwner": "Harzva/Agent-Job-Interview",
         "url": "https://github.com/Harzva/Agent-Job-Interview",
@@ -431,8 +397,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-05T05:48:21Z",
-        "updatedAt": "2026-06-05T05:48:25Z",
+        "pushedAt": "2026-06-06T05:04:58Z",
+        "updatedAt": "2026-06-06T05:05:01Z",
         "createdAt": "2026-05-12T09:49:47Z",
         "defaultBranchRef": {
           "name": "main"
@@ -465,8 +431,8 @@
         "primaryLanguage": {
           "name": "TypeScript"
         },
-        "pushedAt": "2026-06-05T04:53:53Z",
-        "updatedAt": "2026-06-05T04:53:57Z",
+        "pushedAt": "2026-06-06T04:33:30Z",
+        "updatedAt": "2026-06-06T04:33:34Z",
         "createdAt": "2026-04-01T03:55:26Z",
         "defaultBranchRef": {
           "name": "main"
@@ -508,40 +474,6 @@
         }
       },
       {
-        "name": "IssueTrending",
-        "nameWithOwner": "Harzva/IssueTrending",
-        "url": "https://github.com/Harzva/IssueTrending",
-        "description": "GitHub issue intelligence dashboard for discovering developer pain points, product opportunities, and content angles.",
-        "isPrivate": false,
-        "isArchived": false,
-        "isFork": false,
-        "primaryLanguage": {
-          "name": "JavaScript"
-        },
-        "pushedAt": "2026-06-04T13:40:25Z",
-        "updatedAt": "2026-06-04T13:41:43Z",
-        "createdAt": "2026-06-04T05:27:16Z",
-        "defaultBranchRef": {
-          "name": "main"
-        },
-        "homepageUrl": "",
-        "stargazerCount": 0,
-        "forkCount": 0,
-        "repositoryTopics": [],
-        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/IssueTrending",
-        "pages": {
-          "enabled": true,
-          "url": "https://harzva.github.io/IssueTrending/",
-          "status": "built",
-          "source": {
-            "branch": "main",
-            "path": "/"
-          },
-          "httpsEnforced": true
-        },
-        "latestRelease": null
-      },
-      {
         "name": "mobilecode",
         "nameWithOwner": "Harzva/mobilecode",
         "url": "https://github.com/Harzva/mobilecode",
@@ -552,7 +484,7 @@
         "primaryLanguage": {
           "name": "Dart"
         },
-        "pushedAt": "2026-06-04T08:34:09Z",
+        "pushedAt": "2026-06-05T16:55:11Z",
         "updatedAt": "2026-06-04T11:28:20Z",
         "createdAt": "2026-05-12T08:19:17Z",
         "defaultBranchRef": {
@@ -616,8 +548,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-04T08:02:19Z",
-        "updatedAt": "2026-06-04T08:02:23Z",
+        "pushedAt": "2026-06-05T07:19:49Z",
+        "updatedAt": "2026-06-05T07:19:53Z",
         "createdAt": "2026-05-14T09:29:34Z",
         "defaultBranchRef": {
           "name": "main"
@@ -650,8 +582,8 @@
         "primaryLanguage": {
           "name": "Python"
         },
-        "pushedAt": "2026-06-04T08:01:31Z",
-        "updatedAt": "2026-06-04T08:01:35Z",
+        "pushedAt": "2026-06-05T07:18:59Z",
+        "updatedAt": "2026-06-05T07:19:03Z",
         "createdAt": "2026-05-14T09:29:39Z",
         "defaultBranchRef": {
           "name": "main"
@@ -665,6 +597,74 @@
           "enabled": true,
           "url": "https://harzva.github.io/harzva-pages-hub/",
           "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "harzva-project-atlas",
+        "nameWithOwner": "Harzva/harzva-project-atlas",
+        "url": "https://github.com/Harzva/harzva-project-atlas",
+        "description": "Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "Python"
+        },
+        "pushedAt": "2026-06-05T07:18:21Z",
+        "updatedAt": "2026-06-05T07:18:25Z",
+        "createdAt": "2026-05-14T09:27:13Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "https://harzva.github.io/harzva-project-atlas/",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/harzva-project-atlas/",
+          "status": null,
+          "source": {
+            "branch": "main",
+            "path": "/"
+          },
+          "httpsEnforced": true
+        },
+        "latestRelease": null
+      },
+      {
+        "name": "IssueTrending",
+        "nameWithOwner": "Harzva/IssueTrending",
+        "url": "https://github.com/Harzva/IssueTrending",
+        "description": "GitHub issue intelligence dashboard for discovering developer pain points, product opportunities, and content angles.",
+        "isPrivate": false,
+        "isArchived": false,
+        "isFork": false,
+        "primaryLanguage": {
+          "name": "JavaScript"
+        },
+        "pushedAt": "2026-06-04T13:40:25Z",
+        "updatedAt": "2026-06-04T13:41:43Z",
+        "createdAt": "2026-06-04T05:27:16Z",
+        "defaultBranchRef": {
+          "name": "main"
+        },
+        "homepageUrl": "",
+        "stargazerCount": 0,
+        "forkCount": 0,
+        "repositoryTopics": [],
+        "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/IssueTrending",
+        "pages": {
+          "enabled": true,
+          "url": "https://harzva.github.io/IssueTrending/",
+          "status": "built",
           "source": {
             "branch": "main",
             "path": "/"
@@ -3473,8 +3473,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-05T05:48:21Z",
-      "updatedAt": "2026-06-05T05:48:25Z",
+      "pushedAt": "2026-06-06T05:04:58Z",
+      "updatedAt": "2026-06-06T05:05:01Z",
       "createdAt": "2026-05-12T09:49:47Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3874,8 +3874,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-04T08:01:31Z",
-      "updatedAt": "2026-06-04T08:01:35Z",
+      "pushedAt": "2026-06-05T07:18:59Z",
+      "updatedAt": "2026-06-05T07:19:03Z",
       "createdAt": "2026-05-14T09:29:39Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3909,7 +3909,7 @@
         "name": "Python"
       },
       "pushedAt": "2026-06-05T07:18:21Z",
-      "updatedAt": "2026-06-04T08:01:00Z",
+      "updatedAt": "2026-06-05T07:18:25Z",
       "createdAt": "2026-05-14T09:27:13Z",
       "defaultBranchRef": {
         "name": "main"
@@ -3942,8 +3942,8 @@
       "primaryLanguage": {
         "name": "Python"
       },
-      "pushedAt": "2026-06-04T08:02:19Z",
-      "updatedAt": "2026-06-04T08:02:23Z",
+      "pushedAt": "2026-06-05T07:19:49Z",
+      "updatedAt": "2026-06-05T07:19:53Z",
       "createdAt": "2026-05-14T09:29:34Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4078,8 +4078,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-05T04:53:53Z",
-      "updatedAt": "2026-06-05T04:53:57Z",
+      "pushedAt": "2026-06-06T04:33:30Z",
+      "updatedAt": "2026-06-06T04:33:34Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4131,7 +4131,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-04T08:34:09Z",
+      "pushedAt": "2026-06-05T16:55:11Z",
       "updatedAt": "2026-06-04T11:28:20Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
@@ -4460,8 +4460,8 @@
       "primaryLanguage": {
         "name": "TypeScript"
       },
-      "pushedAt": "2026-06-05T04:53:53Z",
-      "updatedAt": "2026-06-05T04:53:57Z",
+      "pushedAt": "2026-06-06T04:33:30Z",
+      "updatedAt": "2026-06-06T04:33:34Z",
       "createdAt": "2026-04-01T03:55:26Z",
       "defaultBranchRef": {
         "name": "main"
@@ -4513,7 +4513,7 @@
       "primaryLanguage": {
         "name": "Dart"
       },
-      "pushedAt": "2026-06-04T08:34:09Z",
+      "pushedAt": "2026-06-05T16:55:11Z",
       "updatedAt": "2026-06-04T11:28:20Z",
       "createdAt": "2026-05-12T08:19:17Z",
       "defaultBranchRef": {
