@@ -10,8 +10,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-16T02:34:29Z",
-    "updatedAt": "2026-08-16T02:34:32Z",
+    "pushedAt": "2026-08-17T02:33:56Z",
+    "updatedAt": "2026-08-17T02:34:03Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -515,6 +515,50 @@
     }
   },
   {
+    "name": "harness-flow-hub",
+    "nameWithOwner": "Harzva/harness-flow-hub",
+    "url": "https://github.com/Harzva/harness-flow-hub",
+    "description": "DSH Flow and plugin hub for DeepSeek Harness Agent Stacks",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-08-16T23:51:41Z",
+    "updatedAt": "2026-08-16T23:51:45Z",
+    "createdAt": "2026-08-16T10:20:34Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/harness-flow-hub/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent-stack",
+      "deepseek-harness",
+      "dsh",
+      "dsh-flow",
+      "dsh-flow-hub",
+      "dsh-hub",
+      "dsh-plugin",
+      "harness-flow",
+      "plugin-registry"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/harness-flow-hub",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/harness-flow-hub/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "Harzva--personal",
     "nameWithOwner": "Harzva/Harzva--personal",
     "url": "https://github.com/Harzva/Harzva--personal",
@@ -559,8 +603,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-15T03:55:51Z",
-    "updatedAt": "2026-08-15T03:55:57Z",
+    "pushedAt": "2026-08-16T04:00:13Z",
+    "updatedAt": "2026-08-16T04:00:39Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -593,8 +637,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-15T03:53:40Z",
-    "updatedAt": "2026-08-15T03:53:45Z",
+    "pushedAt": "2026-08-17T04:01:58Z",
+    "updatedAt": "2026-08-17T04:02:18Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -627,8 +671,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-08-15T03:57:04Z",
-    "updatedAt": "2026-08-15T03:57:09Z",
+    "pushedAt": "2026-08-16T04:03:11Z",
+    "updatedAt": "2026-08-16T04:03:17Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -812,8 +856,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-16T02:03:02Z",
-    "updatedAt": "2026-08-16T02:03:15Z",
+    "pushedAt": "2026-08-17T01:59:16Z",
+    "updatedAt": "2026-08-17T01:59:27Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -1201,8 +1245,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-08-14T10:13:07Z",
-    "updatedAt": "2026-08-14T10:10:04Z",
+    "pushedAt": "2026-08-17T00:32:36Z",
+    "updatedAt": "2026-08-17T00:32:42Z",
     "createdAt": "2026-08-14T08:28:10Z",
     "defaultBranchRef": {
       "name": "main"
