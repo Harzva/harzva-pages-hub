@@ -14,13 +14,13 @@ A visual wall for Harzva GitHub Pages sites, demos, docs, and live project surfa
 
 | Preview | Site | Project | Updated |
 |---|---|---|---:|
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas" width="260" /> | [harzva-project-atlas](https://harzva.github.io/harzva-project-atlas/) | [Harzva/harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | 2026-08-18 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas" width="260" /> | [harzva-project-atlas](https://harzva.github.io/harzva-project-atlas/) | [Harzva/harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | 2026-08-19 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview" width="260" /> | [Agent-Job-Interview](https://harzva.github.io/Agent-Job-Interview/) | [Harzva/Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | 2026-08-19 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc" width="260" /> | [learn-likecc](https://harzva.github.io/learn-likecc/) | [Harzva/learn-likecc](https://github.com/Harzva/learn-likecc) | 2026-08-19 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub" width="260" /> | [harzva-release-hub](https://harzva.github.io/harzva-release-hub/) | [Harzva/harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | 2026-08-18 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub" width="260" /> | [harzva-pages-hub](https://harzva.github.io/harzva-pages-hub/) | [Harzva/harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | 2026-08-18 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub" width="260" /> | [harzva-skills-hub](https://harzva.github.io/harzva-skills-hub/) | [Harzva/harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | 2026-08-18 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/game-ddl" width="260" /> | [game-ddl](https://harzva.github.io/game-ddl/) | [Harzva/game-ddl](https://github.com/Harzva/game-ddl) | 2026-08-18 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview" width="260" /> | [Agent-Job-Interview](https://harzva.github.io/Agent-Job-Interview/) | [Harzva/Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | 2026-08-18 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc" width="260" /> | [learn-likecc](https://harzva.github.io/learn-likecc/) | [Harzva/learn-likecc](https://github.com/Harzva/learn-likecc) | 2026-08-18 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub" width="260" /> | [harzva-release-hub](https://harzva.github.io/harzva-release-hub/) | [Harzva/harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | 2026-08-17 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub" width="260" /> | [harzva-pages-hub](https://harzva.github.io/harzva-pages-hub/) | [Harzva/harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | 2026-08-17 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub" width="260" /> | [harzva-skills-hub](https://harzva.github.io/harzva-skills-hub/) | [Harzva/harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | 2026-08-17 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/GroupX" width="260" /> | [GroupX](https://harzva.github.io/GroupX/) | [Harzva/GroupX](https://github.com/Harzva/GroupX) | 2026-08-17 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/harness-flow-hub" width="260" /> | [harness-flow-hub](https://harzva.github.io/harness-flow-hub/) | [Harzva/harness-flow-hub](https://github.com/Harzva/harness-flow-hub) | 2026-08-16 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/AgenticResearchLab" width="260" /> | [AgenticResearchLab](https://harzva.github.io/AgenticResearchLab/) | [Harzva/AgenticResearchLab](https://github.com/Harzva/AgenticResearchLab) | 2026-08-09 |
@@ -31,17 +31,17 @@ A visual wall for Harzva GitHub Pages sites, demos, docs, and live project surfa
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | Python | 0 | 0 | 2026-08-18 | Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links. |
+| [harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | Python | 0 | 0 | 2026-08-19 | Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links. |
+| [Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | TypeScript | 3 | 0 | 2026-08-19 | Agent job interview roadmap and practice training suite. |
+| [learn-likecc](https://github.com/Harzva/learn-likecc) | TypeScript | 57 | 9 | 2026-08-19 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
+| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Python | 0 | 0 | 2026-08-18 | Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages. |
+| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | Python | 0 | 0 | 2026-08-18 | Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 0 | 0 | 2026-08-18 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [game-ddl](https://github.com/Harzva/game-ddl) | JavaScript | 0 | 0 | 2026-08-18 | Game DDL topic family mirror with esports, game versions, and Steam upcoming releases |
-| [Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | TypeScript | 3 | 0 | 2026-08-18 | Agent job interview roadmap and practice training suite. |
-| [learn-likecc](https://github.com/Harzva/learn-likecc) | TypeScript | 57 | 11 | 2026-08-18 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
-| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Python | 0 | 0 | 2026-08-17 | Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages. |
-| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | Python | 0 | 0 | 2026-08-17 | Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces. |
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 0 | 0 | 2026-08-17 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [harness-flow-hub](https://github.com/Harzva/harness-flow-hub) | JavaScript | 0 | 0 | 2026-08-16 | DSH Flow and plugin hub for DeepSeek Harness Agent Stacks |
 | [AgenticResearchLab](https://github.com/Harzva/AgenticResearchLab) | Python | 0 | 0 | 2026-08-09 | Evidence-grounded research intelligence for Agentic AI papers, code, retrieval, and project-to-paper proposals. |
-| [mobilecore](https://github.com/Harzva/mobilecore) | Kotlin | 1 | 0 | 2026-08-09 | Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations. |
+| [mobilecore](https://github.com/Harzva/mobilecore) | Kotlin | 1 | 1 | 2026-08-09 | Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations. |
 | [mobilecode](https://github.com/Harzva/mobilecode) | Dart | 78 | 4 | 2026-08-07 | MobileCode - AI coding workspace for mobile devices |
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 0 | 0 | 2026-08-04 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [licheng-jiao-research-atlas](https://github.com/Harzva/licheng-jiao-research-atlas) | JavaScript | 0 | 0 | 2026-07-28 | Interactive academic atlas of Prof. Licheng Jiao: publications, research evolution, and collaboration network. |
@@ -70,5 +70,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-08-18T03:59:30.494384+00:00`.
+- Generated at: `2026-08-19T03:59:24.498969+00:00`.
 - Private repositories omitted from this public output: `13`.
