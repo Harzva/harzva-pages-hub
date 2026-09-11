@@ -10,8 +10,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-10T05:58:37Z",
-    "updatedAt": "2026-09-10T05:58:41Z",
+    "pushedAt": "2026-09-11T06:00:06Z",
+    "updatedAt": "2026-09-11T06:00:09Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -362,6 +362,44 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-superterminal",
+    "nameWithOwner": "Harzva/dsh-superterminal",
+    "url": "https://github.com/Harzva/dsh-superterminal",
+    "description": "DSH SuperTerminal: native multipane terminals, a local agent library, and DSH-powered command advice.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-09-11T01:34:07Z",
+    "updatedAt": "2026-09-11T01:32:49Z",
+    "createdAt": "2026-09-09T09:02:37Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/dsh-superterminal/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "terminal"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-superterminal",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/dsh-superterminal/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "everything-in-github",
     "nameWithOwner": "Harzva/everything-in-github",
     "url": "https://github.com/Harzva/everything-in-github",
@@ -603,8 +641,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-09T08:10:27Z",
-    "updatedAt": "2026-09-09T08:10:50Z",
+    "pushedAt": "2026-09-10T08:10:45Z",
+    "updatedAt": "2026-09-10T08:11:15Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -637,8 +675,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-10T08:08:18Z",
-    "updatedAt": "2026-09-10T08:08:35Z",
+    "pushedAt": "2026-09-11T08:03:35Z",
+    "updatedAt": "2026-09-11T08:03:39Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
       "name": "main"
@@ -671,8 +709,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-09T08:14:09Z",
-    "updatedAt": "2026-09-09T08:15:51Z",
+    "pushedAt": "2026-09-10T08:13:33Z",
+    "updatedAt": "2026-09-10T08:13:57Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -705,8 +743,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-09-10T08:08:44Z",
-    "updatedAt": "2026-09-10T08:09:08Z",
+    "pushedAt": "2026-09-11T08:03:49Z",
+    "updatedAt": "2026-09-11T08:03:53Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
       "name": "main"
@@ -856,8 +894,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-09-10T04:58:37Z",
-    "updatedAt": "2026-09-10T04:58:41Z",
+    "pushedAt": "2026-09-11T04:55:56Z",
+    "updatedAt": "2026-09-11T04:56:00Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
@@ -978,13 +1016,13 @@
       "name": "Dart"
     },
     "pushedAt": "2026-08-07T01:23:26Z",
-    "updatedAt": "2026-09-09T17:42:10Z",
+    "updatedAt": "2026-09-10T13:45:29Z",
     "createdAt": "2026-05-12T08:19:17Z",
     "defaultBranchRef": {
       "name": "main"
     },
     "homepageUrl": "",
-    "stargazerCount": 76,
+    "stargazerCount": 77,
     "forkCount": 4,
     "repositoryTopics": [],
     "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/mobilecode",
