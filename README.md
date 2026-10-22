@@ -6,7 +6,7 @@ A visual wall for Harzva GitHub Pages sites, demos, docs, and live project surfa
 
 [Open Gallery](https://harzva.github.io/harzva-pages-hub/) | [Project Atlas](https://github.com/Harzva/harzva-project-atlas)
 
-![Pages](https://img.shields.io/badge/pages-33-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
+![Pages](https://img.shields.io/badge/pages-32-2D9CDB?style=for-the-badge) ![Auto Update](https://img.shields.io/badge/update-daily-6B8E23?style=for-the-badge)
 
 </div>
 
@@ -14,45 +14,44 @@ A visual wall for Harzva GitHub Pages sites, demos, docs, and live project surfa
 
 | Preview | Site | Project | Updated |
 |---|---|---|---:|
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub" width="260" /> | [harzva-skills-hub](https://harzva.github.io/harzva-skills-hub/) | [Harzva/harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | 2026-10-21 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas" width="260" /> | [harzva-project-atlas](https://harzva.github.io/harzva-project-atlas/) | [Harzva/harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | 2026-10-21 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/openbot" width="260" /> | [openbot](https://harzva.github.io/openbot/) | [Harzva/openbot](https://github.com/Harzva/openbot) | 2026-10-21 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-project-atlas" width="260" /> | [harzva-project-atlas](https://harzva.github.io/harzva-project-atlas/) | [Harzva/harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | 2026-10-22 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-skills-hub" width="260" /> | [harzva-skills-hub](https://harzva.github.io/harzva-skills-hub/) | [Harzva/harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | 2026-10-22 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc" width="260" /> | [learn-likecc](https://harzva.github.io/learn-likecc/) | [Harzva/learn-likecc](https://github.com/Harzva/learn-likecc) | 2026-10-22 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/Agent-Job-Interview" width="260" /> | [Agent-Job-Interview](https://harzva.github.io/Agent-Job-Interview/) | [Harzva/Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | 2026-10-21 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/learn-likecc" width="260" /> | [learn-likecc](https://harzva.github.io/learn-likecc/) | [Harzva/learn-likecc](https://github.com/Harzva/learn-likecc) | 2026-10-21 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/awesome-bot" width="260" /> | [awesome-bot](https://harzva.github.io/awesome-bot/) | [Harzva/awesome-bot](https://github.com/Harzva/awesome-bot) | 2026-10-20 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub" width="260" /> | [harzva-release-hub](https://harzva.github.io/harzva-release-hub/) | [Harzva/harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | 2026-10-20 |
-| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub" width="260" /> | [harzva-pages-hub](https://harzva.github.io/harzva-pages-hub/) | [Harzva/harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | 2026-10-20 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/awesome-bot" width="260" /> | [awesome-bot](https://harzva.github.io/awesome-bot/) | [Harzva/awesome-bot](https://github.com/Harzva/awesome-bot) | 2026-10-21 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-release-hub" width="260" /> | [harzva-release-hub](https://harzva.github.io/harzva-release-hub/) | [Harzva/harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | 2026-10-21 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/harzva-pages-hub" width="260" /> | [harzva-pages-hub](https://harzva.github.io/harzva-pages-hub/) | [Harzva/harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | 2026-10-21 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/game-ddl" width="260" /> | [game-ddl](https://harzva.github.io/game-ddl/) | [Harzva/game-ddl](https://github.com/Harzva/game-ddl) | 2026-10-20 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/Harzva.github.io" width="260" /> | [Harzva.github.io](https://harzva.github.io/) | [Harzva/Harzva.github.io](https://github.com/Harzva/Harzva.github.io) | 2026-10-18 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/dsh-superterminal" width="260" /> | [dsh-superterminal](https://harzva.github.io/dsh-superterminal/) | [Harzva/dsh-superterminal](https://github.com/Harzva/dsh-superterminal) | 2026-09-12 |
 | <img src="https://opengraph.githubassets.com/metarepo/Harzva/mobilecore" width="260" /> | [mobilecore](https://harzva.github.io/mobilecore/) | [Harzva/mobilecore](https://github.com/Harzva/mobilecore) | 2026-09-07 |
+| <img src="https://opengraph.githubassets.com/metarepo/Harzva/LDB" width="260" /> | [LDB](https://harzva.github.io/LDB/) | [Harzva/LDB](https://github.com/Harzva/LDB) | 2026-08-31 |
 
 ## All Pages
 
 | Repository | Language | Stars | Forks | Updated | Description |
 |---|---:|---:|---:|---:|---|
-| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 0 | 0 | 2026-10-21 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
-| [harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | Python | 0 | 0 | 2026-10-21 | Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links. |
-| [openbot](https://github.com/Harzva/openbot) | JavaScript | 2 | 0 | 2026-10-21 | OpenBot: persistent local bots, browser work screens and accountable task execution |
-| [Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | TypeScript | 6 | 0 | 2026-10-21 | Agent job interview roadmap and practice training suite. |
-| [learn-likecc](https://github.com/Harzva/learn-likecc) | TypeScript | 54 | 8 | 2026-10-21 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
-| [awesome-bot](https://github.com/Harzva/awesome-bot) | JavaScript | 0 | 0 | 2026-10-20 | A source-backed Bot marketplace: original OpenBot roles, task workflows, searchable discovery and reproducible configuration downloads. |
-| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Python | 0 | 0 | 2026-10-20 | Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages. |
-| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | Python | 0 | 0 | 2026-10-20 | Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces. |
+| [harzva-project-atlas](https://github.com/Harzva/harzva-project-atlas) | Python | 0 | 0 | 2026-10-22 | Download-first MetaRepo atlas for Harzva APK, EXE, package, archive, and release asset links. |
+| [harzva-skills-hub](https://github.com/Harzva/harzva-skills-hub) | Python | 0 | 0 | 2026-10-22 | Auto-updating GitHub Pages registry of Harzva Codex skills, workflow skills, and agent recipes. |
+| [learn-likecc](https://github.com/Harzva/learn-likecc) | TypeScript | 54 | 8 | 2026-10-22 | Claude Code 源码逆向恢复项目 \| Source Map 逆向 · 架构分析 · 可运行版本 \| 1900+ 文件 · 51万行代码 · 12章节课程 |
+| [Agent-Job-Interview](https://github.com/Harzva/Agent-Job-Interview) | TypeScript | 7 | 0 | 2026-10-21 | Agent job interview roadmap and practice training suite. |
+| [awesome-bot](https://github.com/Harzva/awesome-bot) | JavaScript | 1 | 0 | 2026-10-21 | A source-backed Bot marketplace: original OpenBot roles, task workflows, searchable discovery and reproducible configuration downloads. |
+| [harzva-release-hub](https://github.com/Harzva/harzva-release-hub) | Python | 0 | 0 | 2026-10-21 | Auto-updating release hub for Harzva repositories with direct download assets and GitHub Pages. |
+| [harzva-pages-hub](https://github.com/Harzva/harzva-pages-hub) | Python | 0 | 0 | 2026-10-21 | Visual GitHub Pages hub for Harzva sites, demos, docs, and live project surfaces. |
 | [game-ddl](https://github.com/Harzva/game-ddl) | JavaScript | 0 | 0 | 2026-10-20 | Game DDL topic family mirror with esports, game versions, and Steam upcoming releases |
 | [Harzva.github.io](https://github.com/Harzva/Harzva.github.io) | JavaScript | 0 | 0 | 2026-10-18 | Personal portfolio, papers, Agent projects, and article collections. |
 | [dsh-superterminal](https://github.com/Harzva/dsh-superterminal) | JavaScript | 0 | 0 | 2026-09-12 | DSH SuperTerminal: native multipane terminals, a local agent library, and DSH-powered command advice. |
-| [mobilecore](https://github.com/Harzva/mobilecore) | Kotlin | 3 | 1 | 2026-09-07 | Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations. |
+| [mobilecore](https://github.com/Harzva/mobilecore) | Kotlin | 4 | 1 | 2026-09-07 | Android local LLM runtime with GGUF, llama.cpp, OpenAI-compatible API, benchmarks, and device-aware recommendations. |
 | [LDB](https://github.com/Harzva/LDB) | Python | 0 | 0 | 2026-08-31 | Logits DeBiasing for Few-Shot Learning: audited code, protocol, evidence, and project page |
 | [AgentWorkOS](https://github.com/Harzva/AgentWorkOS) | Python | 0 | 0 | 2026-08-31 | Package-managed operating layer for AI agent workspaces: scan, lock, sync, doctor, and install agent context. |
 | [GroupX](https://github.com/Harzva/GroupX) | TypeScript | 0 | 0 | 2026-08-17 | Local group chat broker for Codex, Grok, and Kimi CLIs |
 | [harness-flow-hub](https://github.com/Harzva/harness-flow-hub) | JavaScript | 0 | 0 | 2026-08-16 | DSH Flow and plugin hub for DeepSeek Harness Agent Stacks |
 | [AgenticResearchLab](https://github.com/Harzva/AgenticResearchLab) | Python | 0 | 0 | 2026-08-09 | Evidence-grounded research intelligence for Agentic AI papers, code, retrieval, and project-to-paper proposals. |
-| [mobilecode](https://github.com/Harzva/mobilecode) | Dart | 30 | 2 | 2026-08-07 | MobileCode - AI coding workspace for mobile devices |
+| [mobilecode](https://github.com/Harzva/mobilecode) | Dart | 29 | 2 | 2026-08-07 | MobileCode - AI coding workspace for mobile devices |
 | [CampusAgent-QA](https://github.com/Harzva/CampusAgent-QA) | Java | 0 | 0 | 2026-08-04 | Agentic campus QA system with RAG retrieval, LLM Wiki memory, and GBrain skills |
 | [licheng-jiao-research-atlas](https://github.com/Harzva/licheng-jiao-research-atlas) | JavaScript | 0 | 0 | 2026-07-28 | Interactive academic atlas of Prof. Licheng Jiao: publications, research evolution, and collaboration network. |
 | [ChinaAI-Roadmaps](https://github.com/Harzva/ChinaAI-Roadmaps) | TypeScript | 0 | 0 | 2026-07-18 | Technical roadmaps for China's open and open-weight LLM companies: GLM, Kimi, DeepSeek, MiniMax |
-| [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 108 | 2 | 2026-06-26 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
+| [chatgpt2localbridge](https://github.com/Harzva/chatgpt2localbridge) | Swift | 106 | 2 | 2026-06-26 | Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces. |
 | [IssueTrending](https://github.com/Harzva/IssueTrending) | JavaScript | 0 | 0 | 2026-06-25 | GitHub issue intelligence dashboard for discovering developer pain points, product opportunities, and content angles. |
 | [GitReleaseMarket](https://github.com/Harzva/GitReleaseMarket) | Rust | 0 | 0 | 2026-06-21 | GitHub/Gitee APK discovery and release download tool |
 | [mcp-skills-hub](https://github.com/Harzva/mcp-skills-hub) | TypeScript | 0 | 0 | 2026-06-19 | MCP Skills Hub - 汇集50+ Model Context Protocol Skill与Server |
@@ -73,5 +72,5 @@ This MetaRepo refreshes itself with GitHub Actions.
 - Data source: GitHub REST API.
 - Privacy default: public repositories only.
 - Private mode: set `META_INCLUDE_PRIVATE=true` and provide `META_GITHUB_TOKEN` only when the meta repository is private.
-- Generated at: `2026-10-21T08:37:13.590387+00:00`.
+- Generated at: `2026-10-22T08:39:50.024835+00:00`.
 - Private repositories omitted from this public output: `13`.
