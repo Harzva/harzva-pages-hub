@@ -10,8 +10,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-10T08:24:46Z",
-    "updatedAt": "2026-11-10T08:24:51Z",
+    "pushedAt": "2026-11-11T07:44:43Z",
+    "updatedAt": "2026-11-11T08:44:48Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
       "name": "main"
@@ -28,6 +28,54 @@
       "source": {
         "branch": "main",
         "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
+    "name": "agentapp-connector",
+    "nameWithOwner": "Harzva/agentapp-connector",
+    "url": "https://github.com/Harzva/agentapp-connector",
+    "description": "Connect any app to agent platforms: native MCP configs, marketplace kits & preflight checks for 7 platforms (WorkBuddy, QwenWork, Doubao Work, ChatGPT/Codex, Cursor, Claude, ZCode)",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "pushedAt": "2026-11-11T08:01:28Z",
+    "updatedAt": "2026-11-11T09:01:31Z",
+    "createdAt": "2026-11-11T06:50:13Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/agentapp-connector/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "agent",
+      "chatgpt",
+      "claude",
+      "codex",
+      "connector",
+      "cursor",
+      "doubao",
+      "mcp",
+      "model-context-protocol",
+      "openbot",
+      "qwenwork",
+      "workbuddy",
+      "zcode"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/agentapp-connector",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/agentapp-connector/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
       },
       "httpsEnforced": true
     },
@@ -669,7 +717,7 @@
           "name": "gitmarket-android-experimental.apk",
           "url": "https://github.com/Harzva/GitReleaseMarket/releases/download/v0.3.8/gitmarket-android-experimental.apk",
           "size": 15680751,
-          "downloadCount": 4,
+          "downloadCount": 6,
           "contentType": "application/vnd.android.package-archive"
         },
         {
@@ -799,8 +847,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-09T11:35:52Z",
-    "updatedAt": "2026-11-09T11:35:56Z",
+    "pushedAt": "2026-11-10T11:15:37Z",
+    "updatedAt": "2026-11-10T11:15:42Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
       "name": "main"
@@ -833,7 +881,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-10T11:10:47Z",
+    "pushedAt": "2026-11-11T10:57:10Z",
     "updatedAt": "2026-11-10T11:10:52Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
@@ -867,8 +915,8 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-09T11:43:45Z",
-    "updatedAt": "2026-11-09T11:43:49Z",
+    "pushedAt": "2026-11-10T11:20:37Z",
+    "updatedAt": "2026-11-10T11:20:41Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
       "name": "main"
@@ -901,7 +949,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-10T11:12:16Z",
+    "pushedAt": "2026-11-11T10:57:24Z",
     "updatedAt": "2026-11-10T11:12:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
@@ -1052,8 +1100,8 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-10T07:33:59Z",
-    "updatedAt": "2026-11-10T07:34:03Z",
+    "pushedAt": "2026-11-11T06:52:20Z",
+    "updatedAt": "2026-11-11T07:52:24Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
       "name": "main"
