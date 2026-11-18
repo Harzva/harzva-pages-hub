@@ -10,7 +10,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-17T09:12:43Z",
+    "pushedAt": "2026-11-18T08:31:42Z",
     "updatedAt": "2026-11-12T09:19:57Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
@@ -606,6 +606,44 @@
     "latestRelease": null
   },
   {
+    "name": "dsh-workbench-market",
+    "nameWithOwner": "Harzva/dsh-workbench-market",
+    "url": "https://github.com/Harzva/dsh-workbench-market",
+    "description": "Discover Dataelem DSH Desktop and DeepSeek Harness Web workbenches on GitHub",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-18T09:15:17Z",
+    "updatedAt": "2026-11-17T17:36:50Z",
+    "createdAt": "2026-11-17T17:17:09Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/dsh-workbench-market/",
+    "stargazerCount": 0,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "deepseek-harness",
+      "dsh",
+      "workbench"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/dsh-workbench-market",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/dsh-workbench-market/",
+      "status": null,
+      "source": {
+        "branch": "main",
+        "path": "/"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": null
+  },
+  {
     "name": "everything-in-github",
     "nameWithOwner": "Harzva/everything-in-github",
     "url": "https://github.com/Harzva/everything-in-github",
@@ -847,7 +885,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:23:01Z",
+    "pushedAt": "2026-11-17T11:55:44Z",
     "updatedAt": "2026-11-12T12:15:33Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
@@ -881,7 +919,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:51:10Z",
+    "pushedAt": "2026-11-18T11:41:26Z",
     "updatedAt": "2026-11-12T12:07:09Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
@@ -915,7 +953,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-16T11:34:49Z",
+    "pushedAt": "2026-11-17T12:00:36Z",
     "updatedAt": "2026-11-12T12:26:19Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
@@ -949,7 +987,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:51:52Z",
+    "pushedAt": "2026-11-18T11:42:23Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
@@ -1100,7 +1138,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-17T08:13:35Z",
+    "pushedAt": "2026-11-18T07:46:54Z",
     "updatedAt": "2026-11-15T16:07:43Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
