@@ -10,7 +10,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-18T08:31:42Z",
+    "pushedAt": "2026-11-19T08:47:43Z",
     "updatedAt": "2026-11-12T09:19:57Z",
     "createdAt": "2026-05-12T09:49:47Z",
     "defaultBranchRef": {
@@ -189,6 +189,65 @@
       "httpsEnforced": true
     },
     "latestRelease": null
+  },
+  {
+    "name": "app-use",
+    "nameWithOwner": "Harzva/app-use",
+    "url": "https://github.com/Harzva/app-use",
+    "description": "App-Use Studio (macOS): Window-scoped desktop App-Use & Meta-RPA engine — headless AX concurrency, anti-ban guardrails, WeChat/WeCom/DingTalk/Feishu/XHS & any unseen app, stdio MCP + Bot Studio.",
+    "isPrivate": false,
+    "isArchived": false,
+    "isFork": false,
+    "primaryLanguage": {
+      "name": "Python"
+    },
+    "pushedAt": "2026-11-19T06:55:53Z",
+    "updatedAt": "2026-11-19T06:53:54Z",
+    "createdAt": "2026-11-17T02:42:14Z",
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "homepageUrl": "https://harzva.github.io/app-use/",
+    "stargazerCount": 1,
+    "forkCount": 0,
+    "repositoryTopics": [
+      "accessibility",
+      "ai-agents",
+      "app-use",
+      "desktop-automation",
+      "macos",
+      "mcp",
+      "rpa",
+      "wechat"
+    ],
+    "openGraphImageUrl": "https://opengraph.githubassets.com/metarepo/Harzva/app-use",
+    "pages": {
+      "enabled": true,
+      "url": "https://harzva.github.io/app-use/",
+      "status": "built",
+      "source": {
+        "branch": "main",
+        "path": "/docs"
+      },
+      "httpsEnforced": true
+    },
+    "latestRelease": {
+      "name": "WeChat Bot v2.4.37 — macOS Apple Silicon",
+      "tagName": "v2.4.37",
+      "url": "https://github.com/Harzva/app-use/releases/tag/v2.4.37",
+      "publishedAt": "2026-11-17T08:39:42Z",
+      "prerelease": false,
+      "draft": false,
+      "assets": [
+        {
+          "name": "WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "url": "https://github.com/Harzva/app-use/releases/download/v2.4.37/WeChat-Bot-2.4.37-macOS-arm64.zip",
+          "size": 921537,
+          "downloadCount": 1,
+          "contentType": "application/zip"
+        }
+      ]
+    }
   },
   {
     "name": "awesome-bot",
@@ -885,7 +944,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T11:55:44Z",
+    "pushedAt": "2026-11-18T11:46:02Z",
     "updatedAt": "2026-11-12T12:15:33Z",
     "createdAt": "2026-05-14T09:29:39Z",
     "defaultBranchRef": {
@@ -919,7 +978,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-18T11:41:26Z",
+    "pushedAt": "2026-11-19T11:39:13Z",
     "updatedAt": "2026-11-12T12:07:09Z",
     "createdAt": "2026-05-14T09:27:13Z",
     "defaultBranchRef": {
@@ -953,7 +1012,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-17T12:00:36Z",
+    "pushedAt": "2026-11-18T11:52:38Z",
     "updatedAt": "2026-11-12T12:26:19Z",
     "createdAt": "2026-05-14T09:29:34Z",
     "defaultBranchRef": {
@@ -987,7 +1046,7 @@
     "primaryLanguage": {
       "name": "Python"
     },
-    "pushedAt": "2026-11-18T11:42:23Z",
+    "pushedAt": "2026-11-19T11:40:17Z",
     "updatedAt": "2026-11-12T12:09:21Z",
     "createdAt": "2026-05-14T09:29:45Z",
     "defaultBranchRef": {
@@ -1021,7 +1080,7 @@
     "primaryLanguage": {
       "name": "JavaScript"
     },
-    "pushedAt": "2026-11-17T04:41:44Z",
+    "pushedAt": "2026-11-19T06:59:15Z",
     "updatedAt": "2026-10-29T07:27:16Z",
     "createdAt": "2022-10-29T13:10:46Z",
     "defaultBranchRef": {
@@ -1138,7 +1197,7 @@
     "primaryLanguage": {
       "name": "TypeScript"
     },
-    "pushedAt": "2026-11-18T07:46:54Z",
+    "pushedAt": "2026-11-19T07:42:25Z",
     "updatedAt": "2026-11-15T16:07:43Z",
     "createdAt": "2026-04-01T03:55:26Z",
     "defaultBranchRef": {
